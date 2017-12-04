@@ -1,0 +1,14 @@
+{
+    "name": "gushou215/demo",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gushou",
+            "email": "894139598@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
